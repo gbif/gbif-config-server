@@ -2,4 +2,9 @@
 
 External configuration for GBIF Spring projects.
 
-Config repository is [here](https://github.com/gbif/gbif-configuration.git).
+The config repository is [here](https://github.com/gbif/gbif-configuration.git).
+
+Use the following maven command to launch the config server
+```
+mvn spring-boot:run
+```
